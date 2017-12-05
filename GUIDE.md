@@ -87,7 +87,7 @@
 	* messaging: https://github.com/kbespalov/mcp-tls/blob/master/classes/messaging/controller.yml
 
 * **compute node**:
-	* messaging: https://github.com/kbespalov/mcp-tls/blob/master/classes/messaging/controller.yml
+	* messaging: https://github.com/kbespalov/mcp-tls/blob/master/classes/messaging/compute.yml
 
 * **gateway node**:
   * messaging: https://github.com/kbespalov/mcp-tls/blob/master/classes/messaging/gateway.yml
